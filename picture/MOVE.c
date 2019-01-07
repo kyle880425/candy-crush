@@ -210,7 +210,7 @@ candy **MOVE(candy **c,int rows,int cols,int *step,int *n_lollipop,int *n_salute
         }
     }
 
-    /*if(c[y][x].kind==4 || c[z][w].kind==4){
+    if(c[y][x].kind==4 || c[z][w].kind==4){
         if(c[y][x].kind==4 && c[z][w].kind!=4){
             color_ball_boom(c,rows,cols,c[z][w].color,y,x);
         }
@@ -226,7 +226,7 @@ candy **MOVE(candy **c,int rows,int cols,int *step,int *n_lollipop,int *n_salute
                 }
             }
         }
-    }*/
+    }
 
     if(d==0||f==0)
     {
