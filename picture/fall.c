@@ -22,6 +22,7 @@ candy **fall(candy **A,int rows,int cols)
                     A[i][j].color=0;
                     A[i][j].kind=0;
                     A[i][j].clear_enable=1;
+
                 }
             }
         }
