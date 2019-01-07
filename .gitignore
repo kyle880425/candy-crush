@@ -1,0 +1,16 @@
+
+*.ttf
+
+*.depend
+
+*.jpg
+
+*.png
+
+*.layout
+
+*.exe
+
+*.o
+
+*.save-failed
