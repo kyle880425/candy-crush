@@ -21,6 +21,7 @@ int main()
 
     candy **A;
     int rows, cols;
+
     int step;
     printf("輸入限制步數:");
     scanf("%d",&step);
