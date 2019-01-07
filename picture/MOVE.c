@@ -16,11 +16,6 @@ candy **MOVE(candy **c,int rows,int cols,int *step,int *n_lollipop,int *n_salute
     ALLEGRO_MOUSE_STATE MSstate;
     al_install_mouse();
 
-
-    int j=0;
-
-
-
     int x=0,y=0;
     int w=0,z=0;
 
